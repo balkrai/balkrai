@@ -1,7 +1,7 @@
 package rep;
 public class ContarRepetidos {
-			static int A=15;
-			static int B=15;
+			static int A=200;
+			static int B=10;
 			static int vectorA[]=new int[A];
 			static int vectorB[]=new int[B];
 			static int elemA=0;	
